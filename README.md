@@ -1,6 +1,6 @@
 # Hacktoberfest2023
 # HacktoberFest 2023 `OPEN FIRST` Pull Request
-![HacktoberFest 2023](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40gayankod%2Fhacktoberfest-2023-are-you-ready-8640a0a36233&psig=AOvVaw1x_vr3sTOnc6JB5iUkcfHD&ust=1696234708688000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOjCnuu01IEDFQAAAAAdAAAAABAE)
+![HacktoberFest 2023](https://miro.medium.com/v2/resize:fit:1400/0*McOGR_vW3LivYNor.png)
 
 
 ## This Project Is Perfect For Your First Pull Request
